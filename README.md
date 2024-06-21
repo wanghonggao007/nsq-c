@@ -1,3 +1,6 @@
+增加windows版本：
+
+
 #nsq-c  
 nsq client for c language  ,c 语言的nsq客户端
 
